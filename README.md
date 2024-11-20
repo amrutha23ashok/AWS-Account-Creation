@@ -21,8 +21,8 @@
  Review and Create IAM User
 
 ## OUTPUT
-### REG NUMBER:212223040048
-### NAME:GOGINENI BIDHISHA
+### REG NUMBER:212222110004
+### NAME:AMRUTHA
  
  ![image](https://github.com/user-attachments/assets/16de7c32-84f5-4ff5-9a6d-0e976d275491)
  ![image](https://github.com/user-attachments/assets/0d863f22-263f-498e-9233-a4ae49a16dd8)
